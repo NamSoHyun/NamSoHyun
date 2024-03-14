@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamSoHyun&show_icons=true&theme=radical)
 
+# Welcome my github!
+
 ## 🌱 USED 🌱
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
