@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/NamSoHyun/NamSoHyun/asset/header" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamSoHyun&show_icons=true&theme=radical)
+![githubmain](https://github.com/NamSoHyun/NamSoHyun/assets/105468288/2193906b-9545-42ec-9226-e510d8033d3b)
 
 # Welcome my github!
 
