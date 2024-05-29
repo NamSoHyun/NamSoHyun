@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://github.com/NamSoHyun/NamSoHyun/asset/header" />
-</div>
-
 ![githubmain](https://github.com/NamSoHyun/NamSoHyun/assets/105468288/2193906b-9545-42ec-9226-e510d8033d3b)
 
 # Welcome my github!
